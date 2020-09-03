@@ -1,0 +1,120 @@
+.primeroh
+   {    	
+   	position: absolute;
+	  left: 320px;
+    top: 9px;
+    width: 700px;
+    height: 100px;
+    background:url("titulo000.jpg");
+   
+   }
+
+ .segundoh
+   {    	
+   	position: absolute;
+	left: 480px;
+    top: 300px;
+
+}
+
+   .info
+   {    	
+   	position:absolute;
+	left: 250px;
+    top: 120px;
+    height: 10px;
+    width: 800px;
+   
+   }
+
+    .quien
+   {    	
+   	position:absolute;
+   	width:240px; 
+   	height:460px;
+   	background-image: url("quien.jpg");
+    left: 250px;
+    top: 490px;
+  }
+
+      .quien:hover
+   {    	
+   	position:absolute;
+   	width:240px; 
+   	height:540px;
+   	background-image: url("quien2.jpg");
+    left: 250px;
+    top: 490px;
+}
+
+
+  
+ .como
+   {    	
+   	position:absolute;
+   	background-image: url("como.jpg");
+	left: 550px;
+    top: 450px;
+    	width:248px; 
+   	height:460px;
+  
+   }
+
+    .como:hover
+   {    	
+   	position:absolute;
+	left: 550px;
+    top: 450px;
+    position: absolute;
+   	background-image: url("como2.jpg");
+    width:280px; 
+   	height:700px;
+  
+   }
+
+   .que
+   {    
+   	background-image: url("que.jpg");	
+   	position:absolute;
+	left: 850px;
+    top: 490px;
+     width:263px; 
+   	height:470px;
+  
+   }
+
+    .que:hover
+   {    	
+   	position:absolute;
+   	background-image: url("que2.jpg");
+   	height:520px;
+    width:260px; 
+	left: 850px;
+    top: 490px;
+  
+   }
+
+ .barra
+   {    	
+   	position: absolute;
+   	background-image: url("barraaa.png");
+    top: 5px;
+    left:10px;
+    width:200px; 
+   	height:1100px;
+   }
+
+
+ .barra2
+   {    	
+   	position: absolute;
+	left: 1150px;
+    top: 5px;
+    background-image: url("barraaa.png");
+    width:200px; 
+   	height:1100px;
+   }
+   body{
+
+    background:url("fonfo.jpg");
+   }
